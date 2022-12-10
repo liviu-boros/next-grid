@@ -1,4 +1,4 @@
-# NextGrid [&nbsp;&nbsp;◹&nbsp;&nbsp;&nbsp;](https://)
+# NextGrid [&nbsp;&nbsp;◹&nbsp;&nbsp;&nbsp;](https://liviu-boros.github.io/next-grid/pages/styles.html)
 
 NextGrid is a personal project where I studied UX design for websites, with a focus on researching company presentation sites. The project includes a custom design system for a hypothetical tech company website, detailing colors, fonts, icons, components, and patterns.
 
